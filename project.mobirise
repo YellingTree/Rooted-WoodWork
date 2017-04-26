@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "Rooted WoodWorks LLC",
+    "name": "Rooted WoodWorks LLC-Ver 2.1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Rooted WoodWorks",
+        "meta_descr": "Rooted WoodWorks LLC, Northern Michigan's Premiere Custom Finish Carpentry ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
