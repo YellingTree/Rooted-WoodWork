@@ -645,13 +645,6 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#social-buttons2-y .mbr-section-title,
-#social-buttons2-y .btn-social {
-  color: #232323;
-}
-#social-buttons2-y .mbr-section-title {
-  color: #ffffff;
-}
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -718,6 +711,10 @@ h6,
 #menu-b .close-icon::before,
 #menu-b .close-icon::after {
   background-color: #ffffff;
+}
+#social-buttons4-1a .mbr-section-title,
+#social-buttons4-1a .btn-social {
+  color: #fff;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
