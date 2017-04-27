@@ -622,8 +622,17 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #ffffff;
 }
-#slider-a P {
-  text-align: center;
+#msg-box2-19 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-19 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header5-18 .mbr-section-title {
+  color: #4b4b4b;
+}
+#header5-18 .mbr-section-lead {
+  color: #9c9a9a;
 }
 #msg-box8-v .mbr-section-title,
 #msg-box8-v p {
@@ -639,6 +648,9 @@ h6,
 #social-buttons2-y .mbr-section-title,
 #social-buttons2-y .btn-social {
   color: #232323;
+}
+#social-buttons2-y .mbr-section-title {
+  color: #ffffff;
 }
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
