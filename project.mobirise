@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "Contact Info.html",
-    "name": "Rooted WoodWorks LLC-Ver 2.1",
+    "currentPage": "index.html",
+    "name": "Rooted WoodWorks LLC-Ver 2.5",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -143,53 +143,39 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-i",
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-1b",
           "_params": {
-            "imageSize": "48",
             "parallax": true,
             "bgImageRadio": true,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-20160810-085916-2000x1125.png",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000000",
-            "inverse": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
+            "showButtons": true
           },
           "title": "Rooted WoodWorks",
-          "text": "Rooted Wood Works is Northern Michigan's Premiere Custom Finish Carpentry. We are devoted to providing you with exceptional quality, craftsmanship, and personalized detail in every job and every cut we make. If you would like to see some of our work check out our gallery.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"Testimoinal.html\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">GALLERY</a>"
+          "text": "Rooted Wood Works is Northern Michigan's Premiere Custom Finish Carpentry. We are devoted to providing you with exceptional quality, craftsmanship, and personalized detail in every job and every cut we make. If you would like to see some of our work check out our gallery.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Testimoinal.html\" data-toolbar=\"-mbrBtnMove\">TESTIMONIALS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Gallery.html\" data-toolbar=\"-mbrBtnMove\">GALLERY</a>"
         },
         {
           "_name": "footer1",

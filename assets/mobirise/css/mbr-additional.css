@@ -481,6 +481,13 @@ h6,
 #menu-b .close-icon::after {
   background-color: #ffffff;
 }
+#header1-1b .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#header1-1b .mbr-section-lead {
+  color: #ffffff;
+}
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
